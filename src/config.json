@@ -1,0 +1,10 @@
+{
+    "baseUrl": "https://api.eu.asgardeo.io/t/momo",
+    "clientID": "jjK1r5joc0O8Ls84g6A4D4WxLgIa",
+    "scope": [
+        "openid",
+        "profile"
+    ],
+    "signInRedirectURL": "https://localhost:3000",
+    "signOutRedirectURL": "https://localhost:3000"
+}
